@@ -1,5 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #c0bb72;
 }
 
 #principal{
@@ -12,6 +13,9 @@ body{
     background-color: rgb(80, 204, 64);
     height: 100px;
     /* Aquí puedes escribir tu comentario */
+}
+.navbar{
+    color: white;
 }
 #carrusel{
     border: 2px solid black;
@@ -91,6 +95,7 @@ article{
 
 #navcervaza{
     width: 100%;
+    
 }
 #formularioedit{
     margin: 0 auto;
@@ -123,4 +128,5 @@ article{
 .jumbotron{
     background-color: black;
 }
+
 
